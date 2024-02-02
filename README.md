@@ -7,6 +7,8 @@ Este proyecto demuestra la implementación básica de autenticación utilizando 
 - Verificación de credenciales de usuario en Supabase.
 - Generación y gestión de tokens JWT para sesiones de usuario.
 - Protección de rutas en el backend mediante verificación de token.
+- Axios para las peticiones al server.
+- Bootstrap para los estilos del login.
 
 ## Usuarios en Supabase
 Actualmente en la base de supabase se encuentran registrados 3 usuarios los cuales son:
