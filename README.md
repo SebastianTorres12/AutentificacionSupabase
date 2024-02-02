@@ -45,6 +45,8 @@ Asegúrate de tener Node.js y npm instalados en tu sistema.
    ```bash
    npm run dev
    ```
-
-    
+3. Abre la siguiente ruta en tu navegador
+   ```bash
+   http://localhost:5173/
+   ```
 
